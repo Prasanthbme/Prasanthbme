@@ -1,5 +1,6 @@
-HEY There ! 👋
-I'm Prasanth. M . A Graphic Designer from Tamilnadu, India 	
+Hey There ! 👋
+I'm Prasanth, A Graphic Designer from Tamilnadu, India.
+<h4 style background-color="white">Instagram </h4>
 
 
 
